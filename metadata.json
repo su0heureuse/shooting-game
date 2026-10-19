@@ -1,0 +1,6 @@
+{
+  "name": "스페이스 스트라이커 - 레트로 아케이드 슈팅 게임",
+  "description": "네온 우주를 무대로 펼쳐지는 박진감 넘치는 2D 레트로 아케이드 슈팅 게임. 파워업 아이템, 콤보 시스템, 보스전 및 실감나는 사운드 효과 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
